@@ -4,7 +4,7 @@
   "description": "JSON schema validator utility",
   "main": "index.js",
   "scripts": {
-    "test": "node node_modules/.bin/mocha --recursive tests/*"
+    "test": "node node_modules/.bin/mocha --recursive test/*"
   },
   "keywords": ["json", "schema", "validator"],
   "author": "daniele@xibitdigital.com",
